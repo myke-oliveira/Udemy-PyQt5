@@ -3,6 +3,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QMainWindow, QAction
 from PyQt5.QtGui import QIcon
 
 class App(QMainWindow):
+
 	def __init__(self):
 		super().__init__()
 		print('__init__')
