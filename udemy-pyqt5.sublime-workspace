@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"butt",
+				"buttonReply"
+			],
+			[
 				"Butt",
 				"button"
 			],
@@ -224,10 +228,10 @@
 	"buffers":
 	[
 		{
-			"file": "button.py",
+			"file": "message-box.py",
 			"settings":
 			{
-				"buffer_size": 1065,
+				"buffer_size": 1267,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -389,19 +393,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "button.py",
+					"file": "message-box.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1065,
+						"buffer_size": 1267,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								951,
-								951
+								929,
+								929
 							]
 						],
 						"settings":
